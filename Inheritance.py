@@ -1,4 +1,13 @@
 # This is inheritance 
+# Inheritance is the process of inheriting the properties of the parent class to the child class
+# Example: Person class has a name and age attribute, Employee class has a name and age attribute, Employee class has a salary attribute
+# Person class is the parent class, Employee class is the child class
+# Employee class inherits the properties of the Person class
+# Employee class can access the properties of the Person class
+# Employee class can access the methods of the Person class
+# Employee class can access the instance variables of the Person class
+# Employee class can access the class variables of the Person class
+# Employee class can access the static methods of the Person class
 print("Inheritance")
 
 class P:
